@@ -3,6 +3,7 @@ using namespace std;
 
 void Funny(int n){
     if(n<=0)return;
+    
 }
 
 int main(){
